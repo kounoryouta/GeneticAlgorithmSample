@@ -1,0 +1,1 @@
+遺伝的アルゴリズムのスクリプトはAssets/Scripts/GeneticAlgorithm.cs
